@@ -12,3 +12,17 @@ img {
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 20px;
 }
+
+.header {
+    padding: 0 45px;
+    margin: 0px;
+    background-color: rgb(20, 61, 61);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header p {
+    color: #FFF;
+    display: block;
+}
